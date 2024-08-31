@@ -38,10 +38,5 @@ go run main.go
 * `DELETE /api/v1/users/:id` - Delete a user by ID
 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-## Credits 
-
-[Akhil Sharma who inspired this project](https://www.youtube.com/@AkhilSharmaTech)
